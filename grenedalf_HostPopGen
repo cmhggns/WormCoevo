@@ -1,4 +1,4 @@
-## Host Population Genetics Comparison Analysis Through Grenedalf
+## Host Population Genetics Comparison Analysis Through Grenedalf v.0.6.0
 # create sync files
 grenedalf sync --sam-path /scratch/st-kking04-1/cmhggns/BAM --out-dir /scratch/st-kking04-1/cmhggns/sync --file-prefix 20Aug
 # diversity measurements
