@@ -1,2 +1,6 @@
-# WormCoevo
-Population Genetics Analysis from Drew, et al. "Coevolution in symbiotic networks amplifies trait and molecular divergence" (in prep, 2026).
+# HostCoevo
+- Code and analysis of host populations from Drew, et al. "Coevolution in symbiotic networks amplifies trait and molecular divergence" (in prep, 2026).
+- Raw data available here:
+
+# Abstract
+Ecological communities can be complex and rich with mutualistic and antagonistic symbiotic interactions. Yet understanding how coevolution, beyond the traditional pairwise species framework, affects adaptation and diversity in these symbiotic communities remains a major challenge. Here we experimentally coevolved a network of hosts and their symbionts - defensive mutualists and virulent pathogens - and contrasted outcomes to conditions where coevolution was restricted to the host-mutualist pair. Across 15 passages, we assessed the effect of coevolutionary complexity on the nature of selection, quantifying changes in key traits and molecular evolution of all three species. Under network coevolution, hosts show elevated dependence on mutualists for defence, and pathogens evolved heightened virulence. Defensive mutualists specialised to the host environment relative to the free-living environment, but did not show signs of co-adaptation to sympatric host lineages. Moreover, increasing coevolutionary complexity in the network amplified divergence in specific genomic and phenotypic trajectories of both hosts and defensive mutualists. Our work shows that community-level coevolution generates distinct patterns of fitness and diversity relative to pairwise coevolution, and highlights that leveraging defensive mutualists for infection control could promote more virulent pathogens. 
